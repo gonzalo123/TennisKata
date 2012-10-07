@@ -1,0 +1,17 @@
+{
+    "name": "gonzalo123/TennisKata",
+    "authors": [
+        {
+            "name": "Gonzalo Ayuso",
+            "email": "gonzalo123@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "":"lib"
+        }
+    }
+}
